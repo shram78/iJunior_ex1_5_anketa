@@ -1,0 +1,7 @@
+D:\iJunior\ex1\iJunior_ex1_6\anketa\anketa\bin\Debug\anketa.exe.config
+D:\iJunior\ex1\iJunior_ex1_6\anketa\anketa\bin\Debug\anketa.exe
+D:\iJunior\ex1\iJunior_ex1_6\anketa\anketa\bin\Debug\anketa.pdb
+D:\iJunior\ex1\iJunior_ex1_6\anketa\anketa\obj\Debug\anketa.csprojAssemblyReference.cache
+D:\iJunior\ex1\iJunior_ex1_6\anketa\anketa\obj\Debug\anketa.csproj.CoreCompileInputs.cache
+D:\iJunior\ex1\iJunior_ex1_6\anketa\anketa\obj\Debug\anketa.exe
+D:\iJunior\ex1\iJunior_ex1_6\anketa\anketa\obj\Debug\anketa.pdb
